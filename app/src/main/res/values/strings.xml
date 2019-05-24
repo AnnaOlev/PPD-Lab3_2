@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab3_2</string>
+    <string name="Show">Вывести БД</string>
+    <string name="Add">Добавить запись</string>
+    <string name="FIO">ФИО</string>
+    <string name="Change">Изменить на Иванова</string>
+    <string name="Name">название</string>
+</resources>
